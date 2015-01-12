@@ -3,6 +3,7 @@
 autoreconf --version
 
 git clone https://github.com/google/protobuf.git
+cp -f configure.ac protobuf
 cd protobuf
 pwd
 echo "Running autogen.sh..."
