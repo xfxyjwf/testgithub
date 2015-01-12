@@ -1,0 +1,2 @@
+language: python
+script: /bin/bash install.sh
